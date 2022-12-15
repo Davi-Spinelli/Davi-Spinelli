@@ -14,7 +14,7 @@ Sou um Desenvolvedor Full Stack.
 <br>
 <br>
 
-![](https://www.codewars.com/users/"Colocar seu usuario"/badges/micro)
+![](https://www.codewars.com/users/Davi-Spinelli/badges/micro)
 
  <div>
   <a href="https://github.com/Davi-Spinelli">
