@@ -18,8 +18,8 @@ Sou um Desenvolvedor Full Stack.
 
  <div>
   <a href="https://github.com/Davi-Spinelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Spinelli&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=white"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Spinelli&layout=compact&langs_count=7&theme=chartreuse-white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Spinelli&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Spinelli&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
   ## Meus Projetos:
