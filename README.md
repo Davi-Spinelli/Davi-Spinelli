@@ -8,7 +8,7 @@ Sou um Desenvolvedor Full Stack.
   <img align="center" alt="Outlook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   
-<a href="https://www.linkedin.com/in/Seu linkedin/">
+<a href="https://www.linkedin.com/in/davi-spinelli-41645421a/">
   <img align="center" alt="Outlook" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br>
