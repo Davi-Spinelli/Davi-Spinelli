@@ -5,7 +5,7 @@ Sou um Desenvolvedor Full Stack.
 
 
 <a target="_blank" href="mailto:davism020399@gmail.com">
-  <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-#ff0000?style=for-the-badge&logo=goole-gmail&logoColor=white" />
 </a>
   
 <a href="https://www.linkedin.com/in/Seu linkedin/">
